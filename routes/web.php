@@ -16,8 +16,14 @@ Route::get('/', function () {
     return view('welcome');
 })->name('home');
 
-Route::middleware('auth')->group(function () {
-    //
+use App\Http\Controllers\CarController;
+
+Route::middleware(['auth'])->group(function () {
+    // Andere routes...
+    Route::post('/offer-car', [CarController::class, 'offerCar'])->name('offer-car');
+    Route::get('/offered-cars', [CarController::class, 'showOfferedCars'])->name('offered-cars');
+    Route::delete('/offered-cars/{id}', [CarController::class, 'deleteOfferedCar'])->name('delete-offered-car');
 });
+
 
 require __DIR__.'/auth.php';

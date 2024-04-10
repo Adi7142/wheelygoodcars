@@ -1,0 +1,14 @@
+C:\xampp\htdocs\WheelyGoodCars\bin\Debug\net8.0\WheelyGoodCars.exe
+C:\xampp\htdocs\WheelyGoodCars\bin\Debug\net8.0\WheelyGoodCars.deps.json
+C:\xampp\htdocs\WheelyGoodCars\bin\Debug\net8.0\WheelyGoodCars.runtimeconfig.json
+C:\xampp\htdocs\WheelyGoodCars\bin\Debug\net8.0\WheelyGoodCars.dll
+C:\xampp\htdocs\WheelyGoodCars\bin\Debug\net8.0\WheelyGoodCars.pdb
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\WheelyGoodCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\WheelyGoodCars.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\WheelyGoodCars.AssemblyInfo.cs
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\WheelyGoodCars.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\WheelyGoodCars.dll
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\refint\WheelyGoodCars.dll
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\WheelyGoodCars.pdb
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\WheelyGoodCars.genruntimeconfig.cache
+C:\xampp\htdocs\WheelyGoodCars\obj\Debug\net8.0\ref\WheelyGoodCars.dll
